@@ -1,0 +1,12 @@
+{
+  "lava_types": [
+    {
+      "name": "Pahoehoe",
+      "texture": "Smooth and flowing"
+    },
+    {
+      "name": "A'a",
+      "texture": "Rough and jagged"
+    }
+  ]
+}
