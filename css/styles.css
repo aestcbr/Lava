@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #1a0f0f;
+    color: #ffcccb;
+    text-align: center;
+}
+
+header {
+    background: #330000;
+    padding: 15px;
+}
+
+nav a {
+    margin: 10px;
+    color: #ff4500;
+    text-decoration: none;
+}
+
+button {
+    padding: 10px 20px;
+    background: #ff4500;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    background: #4d0000;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+}
